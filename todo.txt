@@ -1,4 +1,5 @@
 -[ ] do training
 -[ ] avoid taxes
--[ ] explode onto the scene
 -[ ] have luch
+-[ ] commit crimes
+-[ ] eat crayfish
